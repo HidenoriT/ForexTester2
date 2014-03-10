@@ -1,0 +1,8 @@
+LIBRARY MyMa
+
+EXPORTS
+	Init
+	Calculate
+	ReplaceStr
+	IntrfProcsRec
+	OnParamsChage
